@@ -81,7 +81,7 @@ body {
 .attribution {
     width: 100%;
     position: absolute;
-    bottom: 10px;
+    top: 5px;
     left: 50%;
     transform: translateX(-50%);
     font-size: 11px;
@@ -95,7 +95,8 @@ body {
 /* ---------------------------------------- */
 
 
-/* Wrapper and Shared Styles */
+/* Wrapper and Utilities */
+
 .result-summary {
     --padding: 2.5rem;
     --broder-radius: 2rem;
